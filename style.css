@@ -7,3 +7,18 @@
   --line: hsl(215, 32%, 27%);
   --white: hsl(0, 0%, 100%);
 }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Outfit', sans-serif;
+    background: var(--main-bg);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
