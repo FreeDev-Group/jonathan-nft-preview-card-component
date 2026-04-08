@@ -42,6 +42,9 @@ body{
     width: 100%;
     border-radius: 10px;
 }
+.image-container .overlay img{
+  width: 50%;
+}
 .overlay{
     position: absolute;
     inset: 0;
