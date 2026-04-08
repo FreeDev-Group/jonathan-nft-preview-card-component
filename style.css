@@ -39,7 +39,7 @@ body{
     cursor: pointer;
 }
 .image-container img{
-    width: 50%;
+    width: 100%;
     border-radius: 10px;
 }
 .overlay{
