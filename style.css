@@ -43,7 +43,7 @@ body{
     border-radius: 10px;
 }
 .image-container .overlay img{
-  width: 50%;
+  width: 50px;
 }
 .overlay{
     position: absolute;
